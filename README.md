@@ -26,10 +26,3 @@ The system verifies a predefined IR password sequence. If correct, it gives acce
 [Run the simulation on Wokwi](https://wokwi.com/projects/396346415800355841)
 
 ---
-
-## Previews
-### Fritzing Circuit
-![Fritzing Screenshot](documentation/circuit_screenshot.png)
-
-### Simulation Screenshot
-![Simulation Screenshot](documentation/simulation_screenshot.png)
